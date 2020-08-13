@@ -1,6 +1,6 @@
 # Agilestacks Homebrew tap
 
-To install *Agile Stacks* tap please run
+To install *Agile Stacks* hub CLI please run
 
 ```bash
 brew tap agilestacks/brew
