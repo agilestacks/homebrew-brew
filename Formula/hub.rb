@@ -2,8 +2,8 @@ class Hub < Formula
     desc "Agile Stacks cli tool to manage stacks"
     homepage "https://www.agilestacks.com/"
     url "https://controlplane.agilestacks.io/dist/hub-cli/hub.darwin_amd64"
-    version "0.0.1"
-    sha256 "010632f2928a018349a71cef105f1031bcbc545f6b84d2f3c4d31bcb54b4bbe1"
+    version "0.20.9"
+    sha256 "185b65c3659fe50cb4e3b68434e052be9e63beffae7e335cc8228f376765d8b9"
     license "MIT"
     head "https://github.com/agilestacks/hub"
 
