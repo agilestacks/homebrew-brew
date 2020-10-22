@@ -3,7 +3,7 @@ class Hub < Formula
     homepage "https://www.agilestacks.com/"
     url "https://controlplane.agilestacks.io/dist/hub-cli/hub.darwin_amd64"
     version "0.20.9"
-    sha256 "185b65c3659fe50cb4e3b68434e052be9e63beffae7e335cc8228f376765d8b9"
+    sha256 "34856f5ed4c62e20d6b18c1c316143a94f03f68b51a0b768de7a4132cd5ae9c2"
     license "MIT"
     head "https://github.com/agilestacks/hub"
 
