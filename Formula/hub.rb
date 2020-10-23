@@ -7,10 +7,12 @@ class Hub < Formula
     license "MIT"
     head "https://github.com/agilestacks/hub"
 
-
-    depends_on "jq"        
-    depends_on "npm"        
-
+    depends_on "git" => :recommended
+    depends_on "awscli"        
+    depends_on "kubectl"        
+    depends_on "npm" => :optional
+    depends_on "jq"  => "9.3"  
+    depends_on "yq"  => "3.2"      
 
     def install
         chmod "+x", "hub.darwin_amd64"
