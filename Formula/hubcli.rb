@@ -1,4 +1,4 @@
-class HubCli < Formula
+class Hubcli < Formula
     desc "CLI to manage your deployments"
     homepage "https://www.superhub.io/"
     url "https://controlplane.agilestacks.io/dist/hub-cli/hub.darwin_amd64"
