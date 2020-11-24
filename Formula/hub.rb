@@ -8,8 +8,8 @@ class Hub < Formula
     head "https://github.com/agilestacks/hub"
 
 
-    depends_on "jq"        
-    depends_on "npm"        
+    depends_on "jq"
+    depends_on "npm"
 
 
     def install
@@ -21,7 +21,7 @@ class Hub < Formula
         hub_home = Pathname.new "#{Dir.home}/.hub"
         unless hub_home.exist?
             system "#{Formula["hub"].opt_bin}/hub", "extensions", "install"
-        end 
+        end
     end
 
     test do
