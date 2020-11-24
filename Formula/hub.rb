@@ -1,10 +1,10 @@
 class Hub < Formula
-    desc "Agile Stacks cli tool to manage stacks"
-    homepage "https://www.agilestacks.com/"
+    desc "Hub CLI is stack composition and lifecycle tool"
+    homepage "https://superhub.io/"
     url "https://controlplane.agilestacks.io/dist/hub-cli/hub.darwin_amd64"
-    version "0.20.9"
     sha256 "34856f5ed4c62e20d6b18c1c316143a94f03f68b51a0b768de7a4132cd5ae9c2"
-    license "MIT"
+    version "2020-11-24"
+    license "GPLv3"
     head "https://github.com/agilestacks/hub"
 
 
