@@ -1,10 +1,12 @@
-# Agilestacks Homebrew tap
+# Agile Stacks Homebrew tap
 
-To install *Agile Stacks* hub CLI please run
+To install Agile Stacks Hub CLI run:
 
 ```bash
 brew tap agilestacks/brew
 brew install hub
 ```
 
-More info about cli can be found in [docs](https://docs.agilestacks.com)
+What's next? Deploy [App Stack](https://github.com/agilestacks/stack-app-eks) or [ML Stack](https://github.com/agilestacks/stack-ml-eks).
+
+More information in the [docs](https://docs.agilestacks.com)
