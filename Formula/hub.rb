@@ -5,7 +5,7 @@ class Hub < Formula
     version "2020-12-09"
     license "GPLv3"
     head "https://github.com/agilestacks/hub"
-    sha256 "75ebf363e7b18b773a443245e17d1751819cbcb7f5acc5a3480a4c9df11244b3"
+    sha256 "75036b4cbecf82af66f8c262d00a7156b7db2b900abc3078920744c2094a3a10"
 
 
     depends_on "jq"
