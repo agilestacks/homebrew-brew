@@ -1,11 +1,11 @@
 class Hub < Formula
     desc "Hub CLI is stack composition and lifecycle tool"
     homepage "https://superhub.io/"
-    url "https://github.com/agilestacks/hub/releases/download/v1.0.0/hub.darwin_amd64"
-    version "v1.0.0"
+    url "https://github.com/agilestacks/hub/releases/download/v1.0.2/hub.darwin_amd64"
+    version "v1.0.2"
     license "GPLv3"
     head "https://github.com/agilestacks/hub"
-    sha256 "826167675e7a7f2cbde159a44c90b6b8175de5b7e2f3bbd221e07223ea5fad96"
+    sha256 "30a31e8aab86b7defe15d8cb73befb0a8b534ab8a1865583e92ccedfd08d52a5"
 
 
     depends_on "jq"
